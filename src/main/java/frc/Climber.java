@@ -1,3 +1,9 @@
+
+//An idea for the Climber (Elevator Type Model)
+//Motors and Encoders are placeholders
+
+
+/*
 package frc;
 import edu.wpi.first.wpilibj.XboxController;
 import edu.wpi.first.math.controller.PIDController;
@@ -49,3 +55,5 @@ private Encoder m_rightEncoder = new Encoder(2,3);
     
     
 }
+
+*/
